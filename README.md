@@ -1,3 +1,4 @@
 # LeetCode's Problem Solutions
 
-- Here are the solutions for LeetCode problems. Most of them are done in Python and C programming language.
+- Here are my ideas and solutions for LeetCode problems.
+- Most of them are done in Python and C programming language.
